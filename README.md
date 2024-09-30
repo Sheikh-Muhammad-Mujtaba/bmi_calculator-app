@@ -2,6 +2,13 @@
 
 This is a simple **BMI Calculator** built using **Nextjs**. The application allows users to input their height and weight to calculate their Body Mass Index (BMI). Based on the BMI, it classifies the user into a category (Underweight, Normal, Overweight, or Obese) and provides a health recommendation.
 
+
+## Live Demo
+
+ You can  view the live demo of the application by clicking on this link: [BMI Calculator](https://bmi-calculator-app-8pop.vercel.app/)
+
+
+
 ## Features
 
 - Input fields for height (in cm) and weight (in kg)
